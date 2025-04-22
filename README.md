@@ -1,6 +1,6 @@
 # Marketing Campaign Performance Dashboard
 
-![Dashboard Overview](https://github.com/waleed-analyst/Marketing-Dashboard/blob/main/Dashboard%20overview.png)
+![Dashboard Overview](https://github.com/waleed-analyst/Marketing-Dashboard/blob/main/Screenshot%202025-04-22%20174054.png)
 
 This repository contains a Power BI dashboard created for analyzing and optimizing marketing campaign performance. The dashboard provides insights into key performance indicators (KPIs) like conversion rates, platform contributions, and return on marketing investment (ROMI). These insights enable marketers to make data-driven decisions to enhance campaign efficiency and maximize ROI.
 
